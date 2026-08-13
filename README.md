@@ -85,13 +85,7 @@ O projeto está publicado e disponível online através da Vercel:
 
 ## 📷 Preview
 
-> Adicione aqui uma captura de tela da landing page.
-
-```markdown
 ![Preview do Preço da Sorte](img/preview.png)
-```
-
-Após adicionar a imagem `preview.png` dentro da pasta `img`, ela será exibida automaticamente nesta seção.
 
 ---
 
